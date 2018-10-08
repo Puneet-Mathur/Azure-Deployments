@@ -1,0 +1,8 @@
+{
+                "rgName": {
+                    "value": "HG-AZURE-RG"
+                },
+                "rgLocation": {
+                    "value": "northcentralus"
+                }
+            }
