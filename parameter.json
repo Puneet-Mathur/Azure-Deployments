@@ -1,6 +1,6 @@
 {
                 "rgName": {
-                    "value": "HG-AZURE-DEPLOYMENT-RG"
+                    "value": "HG-AZURE-AUTO-RG"
                 },
                 "rgLocation": {
                     "value": "northcentralus"
